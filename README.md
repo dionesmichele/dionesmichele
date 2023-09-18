@@ -1,7 +1,7 @@
 
 ## Olá,sou Michele Diones e aqui estão meus projetos iniciais ! 
-🔭Como uma jovem curiosa,estou em busca de manter os estudos com desenvolvimento web e fazendo projetos pessoais</p>
- 🌱 Meus objetivos fora desenvolvedora são aprender libras, participar de projetos de desenvolvimento humano,pessoas vulneráveis e voluntariados com artes no geral ✨</p>
+🔭Estou em busca de manter os estudos com desenvolvimento web e fazendo projetos pessoais</p>
+ ✨🌱 Meus objetivos fora desenvolvedora são aprender libras, participar de projetos de desenvolvimento humano, impacto ambiental e economico 🌱✨</p>
 
  <div>
   <a href="https://github.com/dionesmichele">
