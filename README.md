@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">🔭 Graduanda em Engenharia Ambiental na UFSCar, atuo no projeto de extensão Observatório Mulheres da UFSCar, Concecta Robótica e no CeMECA, busco unir as ciências ambientais e outras tecnologias.<br>
-Estou em uma jornada de desenvolvimento web, games, e ilustração fazendo projetos pessoais.</p>
+Estou em uma jornada de desenvolvimento web, games e ilustração, fazendo projetos pessoais.</p>
 <p align="center">✨🌱 Meus objetivos fora são aprender libras, participar de projetos de desenvolvimento humano, impacto ambiental e econômico 🌱✨</p>
 
 <div align="center" width="100%">
